@@ -1,0 +1,20 @@
+
+body{
+    background-color:lavender;
+    display:flex;
+    justify-content: center;
+}
+.grid {
+   background-color: hotpink;
+   width: 400px;
+   height: 310px; 
+   border: solid black 4px; 
+}
+
+.score-style{
+    position: absolute;
+    top: 60%;
+    color: purple;
+    /* border: solid  pink 5px;
+    border-radius: 30%; */
+}
